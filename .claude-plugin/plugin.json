@@ -1,0 +1,9 @@
+{
+  "name": "grillme",
+  "version": "1.0.0",
+  "description": "Socratic deep interview skill — structured questioning waves to extract full picture on any topic. Asks powerful questions instead of giving answers.",
+  "author": {
+    "name": "Jekudy",
+    "email": "jekudy@gmail.com"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "grillme-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace for grillme — Socratic interview skill",
+  "plugins": [
+    {
+      "name": "grillme",
+      "description": "Socratic deep interview skill — structured questioning waves to extract full picture on any topic",
+      "author": {
+        "name": "Jekudy",
+        "email": "jekudy@gmail.com"
+      },
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://github.com/Jekudy/grillme-skill"
+    }
+  ]
+}
