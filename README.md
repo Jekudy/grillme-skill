@@ -12,8 +12,14 @@ A Claude Code plugin that turns Claude into a Socratic interviewer. Instead of g
 
 ## Install
 
+Step 1: Add marketplace
 ```bash
-claude plugin install "grillme@https://github.com/Jekudy/grillme-skill"
+claude marketplace add https://github.com/Jekudy/grillme-skill.git
+```
+
+Step 2: Install plugin
+```bash
+claude plugin install "grillme@grillme-marketplace"
 ```
 
 ## Usage
