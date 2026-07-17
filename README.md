@@ -26,8 +26,8 @@ claude plugin install "grillme@grillme-marketplace"
 
 In Claude Code, say any of:
 - `/grillme`
-- "задавай вопросы" / "grill me" / "допроси меня"
-- "интервью" / "расспроси меня" / "вопросы?"
+- "ask me questions" / "grill me" / "interrogate me"
+- "interview" / "question me" / "questions?"
 
 Works for any domain: product decisions, architecture, personal choices, planning, research.
 
